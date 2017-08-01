@@ -1,0 +1,9 @@
+[
+	{ "time":"星期一","read":321,"collect":345,"reply":5422,"praise":234,"forward":24},
+	{ "time":"星期二","read":321,"collect":345,"reply":5422,"praise":234,"forward":24},
+	{ "time":"星期三","read":321,"collect":345,"reply":5422,"praise":234,"forward":24},
+	{ "time":"星期四","read":321,"collect":345,"reply":5422,"praise":234,"forward":24},
+	{ "time":"星期五","read":321,"collect":345,"reply":5422,"praise":234,"forward":24},
+	{ "time":"星期六","read":321,"collect":345,"reply":5422,"praise":234,"forward":24},
+	{ "time":"星期日","read":321,"collect":345,"reply":5422,"praise":234,"forward":24}	
+]

@@ -1,0 +1,15 @@
+[
+	{"type":"封面","day_value":321,"total_value":345},
+    {"type":"时事","day_value":231,"total_value":321},
+    {"type":"娱乐","day_value":123,"total_value":311},
+    {"type":"体育","day_value":112,"total_value":294},
+    {"type":"商业","day_value":91,"total_value":283},
+    {"type":"科技","day_value":85,"total_value":264},
+    {"type":"封蜜","day_value":76,"total_value":253},
+    {"type":"推荐","day_value":71,"total_value":180},
+    {"type":"精选","day_value":65,"total_value":170},
+    {"type":"校园","day_value":62,"total_value":150},
+    {"type":"生活","day_value":43,"total_value":130},
+    {"type":"视频","day_value":32,"total_value":100},
+    {"type":"广告","day_value":21,"total_value":90}
+]
